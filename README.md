@@ -1,4 +1,4 @@
-Crated for 3rd Sept 2013 WebRTC Sydney Meetu: http://www.meetup.com/WebRTC-Sydney/events/133692082/
+Crated for 3rd Sept 2013 WebRTC Sydney Meetup: http://www.meetup.com/WebRTC-Sydney/events/133692082/
 
 # Naive simple pitch detection
 
